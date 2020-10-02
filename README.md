@@ -1,7 +1,7 @@
 # DEVOPS-TASK3
 <h1>DEVops technology</h1>
 
-MLOPS Task3
+MLOPS Task3.
 This repository has dockerfile where we host webserver
 This repository is just for practise to explore more jenkins usecases in deep<br>
 Here i have integrated jenkins with github and webserver<br>
